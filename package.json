@@ -1,0 +1,24 @@
+{
+  "name": "notes-app-backend",
+  "version": "1.0.0",
+  "description": "dicoding submition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syauqi Nur Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "dicoding submition"
+  },
+  "keywords": [
+    "dicoding"
+  ]
+}
